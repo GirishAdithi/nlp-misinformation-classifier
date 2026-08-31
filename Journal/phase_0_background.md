@@ -15,8 +15,8 @@ Through the *Databricks Generative AI Fundamentals* course, I learned that this 
 My goal is to build an NLP system that can classify text related to misinformation and compare different approaches to the problem. I want to start with relatively simple methods such as TF-IDF and classical machine-learning models, then work toward a transformer-based model such as BERT or RoBERTa.
 
 Overall project goals I have set:
-- [] A functioning misinformation classification system
-- [] - [] Multiple models to compare
-- [] Meaningful evaluation results
-- [] An analysis of where and why the models fail
-- [] A basic interface that allows someone to test the model
+- [ ] A functioning misinformation classification system
+- [ ] Multiple models to compare
+- [ ] Meaningful evaluation results
+- [ ] An analysis of where and why the models fail
+- [ ] A basic interface that allows someone to test the model
