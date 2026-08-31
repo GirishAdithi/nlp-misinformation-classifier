@@ -9,3 +9,14 @@ I wanted to further dissect and explore how NLP models work, how to approach it 
 ---
 I believe **misinformation** is a critical issue because we increasingly depend on online content to comprehend current events, politics, science, and health. Distinguishing reliable information from misleading data is incredibly difficult, especially when content is engineered to appear highly credible. NLP can help me identify patterns in large volumes of text that would be impossible for a human to analyze manually.
 Through the *Databricks Generative AI Fundamentals* course, I learned that this problem becomes even more acute with modern Gen AI. Models are highly prone to hallucinations: generating plausible-sounding, but entirely fabricated facts. Additonally, even though I can guide these models using prompt engineering, they suffer from inherent vulnerabilities like context loss, where the model forgets my initial instructions during long interactions due to small context window.
+
+### *What is my goal?*
+---
+My goal is to build an NLP system that can classify text related to misinformation and compare different approaches to the problem. I want to start with relatively simple methods such as TF-IDF and classical machine-learning models, then work toward a transformer-based model such as BERT or RoBERTa.
+
+Overall project goals I have set:
+- [] A functioning misinformation classification system
+- [] - [] Multiple models to compare
+- [] Meaningful evaluation results
+- [] An analysis of where and why the models fail
+- [] A basic interface that allows someone to test the model
