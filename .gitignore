@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# don't upload my dataset yet: size 245 MB
+data/raw_data/
+data/processed/
+
+# macOS
+.DS_Store
