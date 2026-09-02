@@ -6,3 +6,5 @@ Finding a credible raw dataset is one of the challenges I faced because most of 
 
 I also liked this dataset because this isn't perfectly clean, and I can use my machine learning skills (learned in my course *CSE40: Machine Learning Basics*) to investigate and enhance it with additional text-based features and processed columns to aid my models.
 
+#### **Goal**: to understand the raw WELFake dataset, identify the problems or patterns in it and clean it thoroughly to prepare it for modeling.
+
