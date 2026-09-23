@@ -223,3 +223,9 @@ data/processed/
 
 # macOS
 .DS_Store
+
+# Transformer model files
+data/transformer_model/
+data/transformer_results/
+data/transformer_predictions.csv
+data/transformer_test_results.csv
